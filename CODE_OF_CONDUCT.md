@@ -20,3 +20,5 @@ To support and motivate the growth of all team members, strive for peak performa
 * We will decide, by consensus, how to divide up other work in accordance with individual strengths and learning goals. 
 * Team members will always strive to be polite, kind, and good humoured. 
 * When conflict and other difficult situations arise we will take space and reflect, then work constructively and in good faith towards reconciliation and healing.
+
+
