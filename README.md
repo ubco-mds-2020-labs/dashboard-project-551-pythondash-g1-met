@@ -3,6 +3,8 @@
 ### Mitch DeCock, Thomson Hawks, Eric Phillips
 February 27, 2021
 
+## [Link to public repository with dashboard code](https://github.com/ubco-mds-2020-labs/covid_vaccine_dashboard.git)
+
 
 ### Section 1: Motivation and Purpose
 
@@ -10,9 +12,9 @@ Our Role: Data Scientist public advisory group
 
 Target audience: Canadian and American public
 
-The status and progress of the COVID-19 vaccination rollout is of great public interest. Thus far, Canada's progress has lagged behind that of the United States on a per-capita basis. This has led the current administration to come under increasing scrutiny, as the public grows eager for a return to normalcy after enduring almost a full year of the pamdemic. This creates a need for easy access to hard data on vaccination progress.
+The status and progress of the COVID-19 vaccination rollout is of great public interest. Thus far, Canada's progress has lagged behind that of the United States on a per-capita basis. This has led the current administration to come under increasing scrutiny, as the public grows eager for a return to normalcy after enduring almost a full year of the pandemic. This creates a need for easy access to hard data on vaccination progress.
 
-We felt that creating a comprehensive dashboard outlining the state and provincial-level vaccination rollout across both Canada and the US would give the public a way to keep themselves informed on this important issue without having to sift through traditional news media coverage. By including data for both Canada and the US in one place, users will be able to not only compare how their state/province is doing relative to the national average, but also how their nation as a whole is doing in comparison to their neigbhor. Given that Canada is often compared against the United States, we feel that our dashboard will add value in comparison to what currently exists by including detailed data for both nations in one place.
+We felt that creating a comprehensive dashboard outlining the state and provincial-level vaccination rollout across both Canada and the US would give the public a way to keep themselves informed on this important issue without having to sift through traditional news media coverage. By including data for both Canada and the US in one place, users will be able to not only compare how their state/province is doing relative to the national average, but also how their nation as a whole is doing in comparison to their neighbor. Given that Canada is often compared against the United States, we feel that our dashboard will add value in comparison to what currently exists by including detailed data for both nations in one place.
 
 Beyond this, such a dashboard could eventually be used to reflect on the impact of anti-vaccination sentiment on vaccine administration. While the main constraint is currently supply, as COVID vaccines become more widely available in the coming months, questions surrounding the public's willingness to take a vaccination will become relevant. Given that a more complete return to normalcy is predicated on achieving herd immunity through widespread vaccination, it will be useful to offer individuals an easy way to compare administration rates across different localities.
 
