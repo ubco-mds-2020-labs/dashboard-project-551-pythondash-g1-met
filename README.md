@@ -3,7 +3,7 @@
 ### Mitch DeCock, Thomson Hawks, Eric Phillips
 February 27, 2021
 
-Please see our public repo where we will be building the functional components of the dashboard and releasing it by clicking this link:
+Click this link to view the Milestone 1 Release of our public repo where we are building the functional components of the dashboard:
 
 ## [Milestone 1 Release](https://github.com/ubco-mds-2020-labs/covid_vaccine_dashboard/releases/tag/v1.0)
 
