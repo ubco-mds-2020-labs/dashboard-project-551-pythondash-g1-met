@@ -3,7 +3,9 @@
 ### Mitch DeCock, Thomson Hawks, Eric Phillips
 February 27, 2021
 
-## [Link to public repository for dashboard](https://github.com/ubco-mds-2020-labs/covid_vaccine_dashboard)
+Please see our public repo where we will be building the functional components of the dashboard and releasing it by clicking this link:
+
+## [Milestone 1 Release](https://github.com/ubco-mds-2020-labs/covid_vaccine_dashboard/releases/tag/v1.0)
 
 **NOTE: the `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` files are stored on our public project repository, linked above.**
 
